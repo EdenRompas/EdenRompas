@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Game Programmer who is constantly looking to improve. I specialize in end to end video game development. I have always been extremely curious about the technical aspects of games. <br><br>I'm excited to connect and see how we can work together. So, let's join forces and create the most amazing games.</p>
+<p align="left">I'm a Game Programmer who is constantly looking to improve. I specialize in end to end video game development. I have always been extremely curious about the technical aspects of games.
 
 ###
 
